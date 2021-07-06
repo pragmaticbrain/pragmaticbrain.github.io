@@ -24,7 +24,7 @@ github_username:  pwigle
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
