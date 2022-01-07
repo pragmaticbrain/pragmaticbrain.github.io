@@ -16,7 +16,7 @@
 title: Pragmatic Brain
 email: petter@pragmaticbrain.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Saving the world from bad software
+  Saving the World from Bad Software
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pragmaticbrain.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: petterwigle
